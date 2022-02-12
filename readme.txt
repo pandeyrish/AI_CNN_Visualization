@@ -1,0 +1,1 @@
+The following libraries are used in this program:1. Pickle2. Pillow3. NumpyFollowing files need to be present in the same folder where suits_generator.py exists.clubs.jpg, clubss.jpg, diamonds.jpg, diamondsss.jpg, hearts.jpg, heartsss.jpg, spades.jpg, spadess.jpg
